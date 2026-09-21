@@ -1,10 +1,20 @@
 # EV2_CloudNative_Perfume
 
-Integrantes
+## 👥 Integrantes
 
-Agustín Yáñez
-Gerardo Vera
+* **Agustín Yáñez**
+* **Gerardo Vera**
 
-Docente
+## 👨‍🏫 Docente
+
+* **José Campos**
+
+##  Estructura 
+
+* **FRONTEND(Angular/React)**
+* **Identidad / Login**
+* **Productos (Catálogo)**
+* **Carrito / Compras**
+* 
 
 
